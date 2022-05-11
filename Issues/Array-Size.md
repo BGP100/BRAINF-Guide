@@ -1,6 +1,6 @@
-<a href="/Issues/Main.md">&lt; Previous</a>
+<a href="/Issues/Cell-Size.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/Issues/Array-Size.md">Next &gt;</a>
+<a href="/Issues/Endofline-Code.md">Next &gt;</a>
 <hr>
 In the classic distribution, the array has 30,000 cells, and the pointer begins at the leftmost cell. Even more cells are needed to store things like the millionth Fibonacci number, and the easiest way to make the language Turing complete is to make the array unlimited on the right.
 <br>
