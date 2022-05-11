@@ -38,6 +38,7 @@ The eight language commands each consist of a single character:
   </tr>
 </table>
 (Alternatively, the <code>]</code> command may instead be translated as an unconditional jump to the corresponding <code>[</code> command, or vice versa; programs will behave the same but will run more slowly, due to unnecessary double searching.)
+<br>
 <code>[</code> and <code>]</code> match as parentheses usually do: each <code>[</code> matches exactly one <code>]</code> and vice versa, the <code>[</code> comes first, and there can be no unmatched <code>[</code> or <code>]</code> between the two.
 <hr>
 Brainfuck programs can be translated into C using the following substitutions, assuming ptr is of type char* and has been initialized to point to an array of zeroed bytes:
