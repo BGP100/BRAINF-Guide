@@ -1,3 +1,7 @@
+<a href="/Example/Hello-World.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/Resources.md">Next &gt;</a>
+<hr>
 This program enciphers its input with the ROT13 cipher. To do this, it must map characters A-M (ASCII 65-77) to N-Z (78-90), and vice versa. Also it must map a-m (97-109) to n-z (110-122) and vice versa. It must map all other characters to themselves; it reads characters one at a time and outputs their enciphered equivalents until it reads an EOF (here assumed to be represented as either -1 or "no change"), at which point the program terminates.
 <br>
 The basic approach used is as follows. Calling the input character x, divide x-1 by 32, keeping quotient and remainder. Unless the quotient is 2 or 3, just output x, having kept a copy of it during the division. If the quotient is 2 or 3, divide the remainder ((x-1) modulo 32) by 13; if the quotient here is 0, output x+13; if 1, output x-13; if 2, output x.
