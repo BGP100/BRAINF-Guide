@@ -38,4 +38,4 @@ Regarding the division algorithm, when dividing y by z to get a quotient q and r
 ]                            End character reading loop
 </pre>
 Code without comments:
-<pre>-,+[-[&gt;&gt;++++[&gt;++++++++&lt;-]&lt;+&lt;-[&gt;+&gt;+&gt;-[&gt;&gt;&gt;]&lt;[[&gt;+&lt;-]&gt;+&gt;]&lt;&lt;&lt;&lt;&lt;-]]&gt;&gt;&gt;[-]+&gt;--[-[&ly;-&gt;+++[-]]]&lt;[++++++++++++&lt;[&gt;-[&gt;+&gt;&gt;]&gt;[+[&lt;+&gt;-]&gt;+&gt;&gt;]&lt;&lt;&lt;&lt;&lt;-]&gt;&gt;[&lt;+&gt;-&gt;[-[-&lt;&lt;[-]&gt;&gt;]&lt;&lt;[&lt;&lt;-&gt;&gt;-]&gt;&gt;]&lt;&lt;[&lt;&lt;+&gt;&gt;-]]&lt;[-]&lt;.[-]&lt;-,+]</pre>
+<pre>-,+[-[&gt;&gt;++++[&gt;++++++++&lt;-]&lt;+&lt;-[&gt;+&gt;+&gt;-[&gt;&gt;&gt;]&lt;[[&gt;+&lt;-]&gt;+&gt;]&lt;&lt;&lt;&lt;&lt;-]]&gt;&gt;&gt;[-]+&gt;--[-[&lt;-&gt;+++[-]]]&lt;[++++++++++++&lt;[&gt;-[&gt;+&gt;&gt;]&gt;[+[&lt;+&gt;-]&gt;+&gt;&gt;]&lt;&lt;&lt;&lt;&lt;-]&gt;&gt;[&lt;+&gt;-&gt;[-[-&lt;&lt;[-]&gt;&gt;]&lt;&lt;[&lt;&lt;-&gt;&gt;-]&gt;&gt;]&lt;&lt;[&lt;&lt;+&gt;&gt;-]]&lt;[-]&lt;.[-]&lt;-,+]</pre>
