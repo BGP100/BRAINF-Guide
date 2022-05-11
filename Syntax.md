@@ -1,3 +1,7 @@
+<a href="Design.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="Issues/Main.md">Next &gt;</a>
+<hr>
 The eight language commands each consist of a single character:
 <table class="ws-table-all notranslate">
   <tr>
